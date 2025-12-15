@@ -11,8 +11,8 @@ This project demonstrates concepts like DOM manipulation, event listeners, audio
 
 ## 🚀 Features
 
-✔ Play / Pause functionality
-✔ Next / Previous track controls
+✔ Play / Pause functionality.
+✔ Next / Previous track controls.
 ✔ Seek bar with real-time progress
 ✔ Volume control slider
 ✔ Auto-play next song

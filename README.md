@@ -102,8 +102,8 @@ open index.html
 
 ## 🎨 Future Enhancements
 
-✨ Dark / Light theme toggle
-✨ Visualizer(animation reacting to music beats)
+✨ Dark / Light theme toggle.
+✨ Visualizer(animation reacting to music beats).
 ✨ Local storage for playlist persistence
 ✨ Drag-and-drop custom playlist
 ✨ Online streaming support

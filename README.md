@@ -17,7 +17,7 @@ This project demonstrates concepts like DOM manipulation, event listeners, audio
 ✔ Volume control slider
 ✔ Auto-play next song
 ✔ Loop & Shuffle modes
-✔ Song title, artist, and poster display
+✔ Song title, artist, and poster displayed
 ✔ Playlist support
 ✔ Keyboard shortcuts (optional)
 ✔ Fully responsive UI

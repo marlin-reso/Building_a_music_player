@@ -16,11 +16,11 @@ This project demonstrates concepts like DOM manipulation, event listeners, audio
 ✔ Seek bar with real-time progress
 ✔ Volume control slider
 ✔ Auto-play next song
-✔ Loop & Shuffle modes
+✔ Loop & Shuffle modes.
 ✔ Song title, artist, and poster displayed
-✔ Playlist support
-✔ Keyboard shortcuts (optional)
-✔ Fully responsive UI
+✔ Playlist support.
+✔ Keyboard shortcuts (optional).
+✔ Fully responsive UI.
 
 ---
 
